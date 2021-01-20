@@ -1,0 +1,38 @@
+barrios con mas espacios culturales ?
+cual es el barrio con mas librerías, teatros?
+en gral cual es el mayor atractivo cultural de la ciudad de buenos aires?
+porque agruparlos con K mean, que era K mean?
+		analizar por esos grupos de k-mean son grupo?
+recomendar: por ejemplo las 
+
+
+
+
+
+
+
+
+-----------metodologia----
+
+Top 3 cultural spaces.  gráfico 
+
+Entre los venues top 3 de la ciudad se encuentran Library -  Bookstores - Theater Space 
+----inserte grafico
+Análisis de Library..
+
+        
+
+
+
+
+
+*-Top de barrios con mayor espacios culturales-
+
+
+
+
+
+
+1. https://datos.bancomundial.org/indicador/ST.INT.ARVL
+2. https://data.buenosaires.gob.ar/dataset/espacios-culturales
+3. https://data.buenosaires.gob.ar/dataset/barrios
